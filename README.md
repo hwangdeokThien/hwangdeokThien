@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hwangdeokThien
 - 👀 I’m interested in programming, music.
-- 🌱 I’m currently learning C++, HTML.
+- 🌱 I’m currently learning C++, HTML, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
       email: huynhducthien41906@gmail.com
