@@ -15,8 +15,6 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hwangdeokThien&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ A Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
