@@ -1,7 +1,7 @@
 ### 👋 Hi, @hwangdeokThien is here
 
 ### About Me
-- 🎓 A 3rd year student in VNUHCM - University of Science.
+- 🎓 A 4th year student in VNUHCM - University of Science.
 - 📝 Pasionate about AI/DS, which is also my major.
 - 🧑🏻‍💻 This is my github page, where I'll share my journey and learning.
 
